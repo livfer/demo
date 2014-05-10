@@ -1,1 +1,1 @@
-已复制         1 个文件。
+It's a tutorial for how to use git.
